@@ -7,6 +7,5 @@
 </head>
 <body>
   Hello World!
-  <img src="img/wallpaper.jpg" alt="view of the ocean from a mountain top">
 </body>
 </html>
